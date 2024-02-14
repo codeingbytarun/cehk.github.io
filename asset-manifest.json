@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cehk/static/css/main.42e36355.css",
+    "main.js": "/cehk/static/js/main.ef10b938.js",
+    "static/js/592.baebebd6.chunk.js": "/cehk/static/js/592.baebebd6.chunk.js",
+    "static/media/logo.svg": "/cehk/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cehk/index.html",
+    "main.42e36355.css.map": "/cehk/static/css/main.42e36355.css.map",
+    "main.ef10b938.js.map": "/cehk/static/js/main.ef10b938.js.map",
+    "592.baebebd6.chunk.js.map": "/cehk/static/js/592.baebebd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e36355.css",
+    "static/js/main.ef10b938.js"
+  ]
+}
